@@ -1,0 +1,57 @@
+#header {
+    text-align: center;
+    margin-bottom: 30px;
+    text-decoration: underline;
+}
+
+#header h1 {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.quote {
+    font-style: italic;
+    font-size: 16px;
+    color: #666;
+    text-align: right;
+}
+
+.bio {
+    max-width: 1000px;
+    text-align: left;
+}
+
+.card {
+    max-width: 400px;
+    background: #ddd;
+    padding: 40px;
+    border-style: outset;
+    border-color: black;
+    border-radius: 20px;
+    text-align: left;
+}
+
+.card h2 {
+    background: #777;
+    color: white;
+    padding: 10px;
+    margin: -20px -20px 20px -20px;
+    border-radius: 5px 5px 0 0;
+}
+
+.card img {
+    width: 100%;
+    max-width: 250px;
+    border-radius: 5px;
+}
+
+.card ul {
+    list-style-type: disc;
+    text-align: left;
+    padding-left: 50px;
+}
+
+.content {
+    max-width: 800px;
+    text-align: left;
+}
